@@ -32,20 +32,20 @@ img {
 
   margin: auto auto;
   padding: 14px;
-  width: 275px;
+  width: 250px;
 
   background-color: var(--white);
 }
 
 img {
-  width: 275px;
+  width: 250px;
 }
 
 .text {
   margin-bottom: 24px;
   padding: 0 5px;
   font-family: Outfit, sans-serif;
-  font-size: 1rem;
+  font-size: 0.85rem;
   font-weight: 400;
   text-align: center;
   color: var(--grayish-blue);
@@ -54,7 +54,7 @@ img {
 .bold {
   margin: 20px 0 0;
   padding: 0 10px;
-  font-size: 1.25rem;
+  font-size: 1.15rem;
   font-weight: 700;
   color: var(--dark-blue);
 }
