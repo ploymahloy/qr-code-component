@@ -14,19 +14,19 @@ body {
   background-color: var(--light-gray);
 }
 
-#app {
+.app {
   display: flex;
   justify-content: center;
   align-items: center;
   height: 100vh;
 }
 
-#container,
+.container,
 img {
   border-radius: 15px;
 }
 
-#container {
+.container {
   display: flex;
   flex-direction: column;
 
@@ -45,7 +45,7 @@ img {
   margin-bottom: 24px;
   padding: 0 5px;
   font-family: Outfit, sans-serif;
-  font-size: 15px;
+  font-size: 1rem;
   font-weight: 400;
   text-align: center;
   color: var(--grayish-blue);
@@ -54,7 +54,7 @@ img {
 .bold {
   margin: 20px 0 0;
   padding: 0 10px;
-  font-size: 20px;
+  font-size: 1.25rem;
   font-weight: 700;
   color: var(--dark-blue);
 }
